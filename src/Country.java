@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum Country {
+public enum Country {
+    French,
+    Russia,
+    USA,
+    Germany;
 }
